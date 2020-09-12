@@ -6,10 +6,19 @@
     <description>Recent content on Mårten Söderblom Saarela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://martensoderblomsaarela.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Cultural and Political History of Spoken Chinese in the Late Imperial Period</title>
+      <link>https://martensoderblomsaarela.github.io/blog/historyofmandarin/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martensoderblomsaarela.github.io/blog/historyofmandarin/</guid>
+      <description>This ongoing research project was previously titled &amp;ldquo;A Cultural and Political History of Language in Qing China,&amp;rdquo; but (as of September 2020) I think that its focus on spoken Chinese in particular deserved to be highlighted in the title. In this project, I&amp;rsquo;m trying to figure out how a form of Mandarin Chinese based on the Beijing dialect came to be seen as the language of the government and of the political elite.</description>
+    </item>
     
     <item>
       <title>Article on Public Inscriptions and Manchu Language Reform</title>
@@ -52,15 +61,6 @@ Here is the description of the book from the University of Pennsylvania Press we
       <description>A book chapter recently came out:
 &amp;ldquo;The Chinese Periphery to c. 1800,&amp;rdquo; in The Cambridge World History of Lexicography, edited by John Considine, 202&amp;ndash;22 (Cambridge: Cambridge University Press, 2019).
 It discusses the lexicographies of eastern Inner Asia, Japan, and Korea that were directly influenced by the Chinese tradition. The first section talks about lexicography in the Inner Asian empires in the early second millennium AD, with a focus on the lexicography of the Tangut and Mongols in North China.</description>
-    </item>
-    
-    <item>
-      <title>A Cultural and Political History of Language in Qing China</title>
-      <link>https://martensoderblomsaarela.github.io/blog/historyofmandarin/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://martensoderblomsaarela.github.io/blog/historyofmandarin/</guid>
-      <description>My current research project is a cultural and political history of language in Qing China (1644–1911). I&amp;rsquo;m trying to figure out how a form of Mandarin Chinese based on the Beijing dialect came to be seen as the language of the government and of the political elite. Much research has been devoted to this topic from the late nineteenth century down through the twentieth. But Mandarin Chinese as a language of state has a longer history that has not been sufficiently investigated (a lot of great work notwithstanding).</description>
     </item>
     
   </channel>
