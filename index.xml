@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mårten Söderblom Saarela</title>
@@ -6,10 +6,15 @@
     <description>Recent content on Mårten Söderblom Saarela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://martensoderblomsaarela.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://martensoderblomsaarela.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Errata</title>
+      <link>https://martensoderblomsaarela.github.io/blog/errata/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://martensoderblomsaarela.github.io/blog/errata/</guid>
+      <description>&amp;ldquo;Linguistic Compartmentalization and the Palace Memorial System in the Eighteenth Century,&amp;rdquo; Late Imperial China 41.2 (2020): 131–179. p. 156: The translation of Yarhûda&amp;rsquo;s memorial contains a mistake. I misread šeo ben for šuban. Actually, I read it correctly when I first saw,</description>
+    </item>
     
     <item>
       <title>Reviews of The Early Modern Travels of Manchu</title>
@@ -39,15 +44,6 @@
     </item>
     
     <item>
-      <title>Errata</title>
-      <link>https://martensoderblomsaarela.github.io/blog/errata/</link>
-      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://martensoderblomsaarela.github.io/blog/errata/</guid>
-      <description>The Early Modern Travels of Manchu: A Script and Its Study in East Asia and Europe (Philadelphia: University of Pennsylvania Press, 2020): pp. 22-24: The translations from the Jinshi 金史 (History of the Jin) and Yuanshi 元史 (History of the Yuan) contain mistakes. Corrected versions will hopefully appear in a different publication in 2021 or 2022 (update to follow). p. 133: &amp;ldquo;1780s&amp;rdquo; should read &amp;ldquo;1680s.&amp;rdquo; p. 168: &amp;ldquo;It</description>
-    </item>
-    
-    <item>
       <title>Encyclopedia entry on the Manchu language</title>
       <link>https://martensoderblomsaarela.github.io/blog/manchulanguageore/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
@@ -55,7 +51,7 @@
       <guid>https://martensoderblomsaarela.github.io/blog/manchulanguageore/</guid>
       <description>&amp;ldquo;Manchu Language,&amp;rdquo; Oxford Research Encyclopedia of Asian History March 25, 2021.
 Abstract:
- The Manchu language was the language of state in the Qing empire, which ruled China and large parts of Inner Asia from 1644 to 1911. For much of its history, it was used by communities in which Chinese was also spoken and written, but Manchu is a Tungusic language that is unrelated to Chinese. Its implementation in China and maintenance as the administrative language of core elements of the Qing imperial bureaucracy prompted the development of a Manchu education system and a tradition of bilingual Manchu-Chinese language pedagogy.</description>
+The Manchu language was the language of state in the Qing empire, which ruled China and large parts of Inner Asia from 1644 to 1911. For much of its history, it was used by communities in which Chinese was also spoken and written, but Manchu is a Tungusic language that is unrelated to Chinese. Its implementation in China and maintenance as the administrative language of core elements of the Qing imperial bureaucracy prompted the development of a Manchu education system and a tradition of bilingual Manchu-Chinese language pedagogy.</description>
     </item>
     
     <item>
@@ -97,7 +93,7 @@ Official signs and steles in the Qing empire were often at least bilingual, with
       <guid>https://martensoderblomsaarela.github.io/blog/earlymoderntravelsofmanchu/</guid>
       <description>The Early Modern Travels of Manchu: A Script and Its Study in East Asia and Europe (Philadelphia: University of Pennsylvania Press, 2020) has been published. Right now (March 2020), at least, the promo code PP20 should give you a 20% discount when purchasing the book through the publisher&amp;rsquo;s website.
 Here is the description of the book from the University of Pennsylvania Press website:
- Manchu was a language first written down as part of the Qing state-building project in Northeast Asia in the early seventeenth century.</description>
+Manchu was a language first written down as part of the Qing state-building project in Northeast Asia in the early seventeenth century.</description>
     </item>
     
     <item>
