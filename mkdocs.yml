@@ -1,0 +1,27 @@
+site_name: Mårten Söderblom Saarela 馬騰
+site_url: http://martensoderblomsaarela.com/
+#locale: en
+theme: readthedocs
+plugins:
+    - awesome-pages
+#nav:
+#    - index.md
+ #   - 2022:
+#    - ... | 2022-*.md
+    
+    #- 2019:
+#    - ...   
+#nav:
+#    - 'index.md'
+#    - 'research.md'
+#  name: material
+#  logo: favicon.ico
+#  favicon: images/favicon.ico
+#  palette:
+#    scheme: default
+#    primary: white
+#    accent: indigo
+#features:
+#    - navigation.tabs
+#extra:
+#  generator: true

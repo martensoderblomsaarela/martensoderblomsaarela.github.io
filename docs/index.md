@@ -1,0 +1,3 @@
+# About me
+
+I'm a historian of early modern China working at the <a href="http://www.mh.sinica.edu.tw/MHWeb/UserDetail.aspx?userID=733&mid=16&tmid=2">Institute of Modern History, Academia Sinica</a>. My research so far has focused on language in history: the study of language and languages, linguistic aspects of the history of science, and—most recently—language use within the political institutions of the Qing empire. The empire was ruled by Manchus, and the Manchu language played an important part in Qing administration and court culture. Much of my time has accordingly been spent working with it. I also co-edit <i><a href="https://www.saksaha.org/">Saksaha: A Journal of Manchu Studies</a></i>. Thank you for your interest in my work.
